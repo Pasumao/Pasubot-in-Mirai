@@ -1,7 +1,14 @@
 # pasubot
+    
+    对直播弹幕数据进行统计分析返回到QQ
 
-## How to start
+## 环境配置
 
-1. generate project using `nb create` .
-2. writing your plugins under `pasubot/plugins` folder.
-3. run your bot using `nb run` .
+1. 需要安装nonebot2： pip install nonebot2
+
+## 更新计划
+
+1. 添加记录剪辑点功能
+2. 添加预测剪辑点功能
+3. 添加bot对话功能
+4. 添加自动下播推送
